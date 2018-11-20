@@ -74,7 +74,7 @@ image_alignment: left
 #### text-block ####
 title: ### ...behaving natively.
 ----
-text: End users shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?
+text: Конечные пользователи shouldn't have to care what language their tools are written in. And that starts with looking and behaving **like completely native tools**. Native appearance, native behavior, delivered in the way a native app is delivered. Why shouldn't your Python tools fit in just as well as a native tool?
 ----
 image: native.png
 ----
